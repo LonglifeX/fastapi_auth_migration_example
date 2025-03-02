@@ -18,6 +18,6 @@ Testuser is:
 ```json
 {
   "username": "testuser",
-  "password": "testpassword"
+  "password": "test"
 }
 ```
